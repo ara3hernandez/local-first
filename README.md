@@ -1,4 +1,4 @@
-# Here is some text in my README
+# Here is some text in my README and added text
 
 # Second line for merge test
 
